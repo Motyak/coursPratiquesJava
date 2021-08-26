@@ -1,5 +1,5 @@
 /*
-https://onlinegdb.com/cxuChd_16
+https://onlinegdb.com/ksXQk6keB
 Ouvre cette URL dans Safari et clique sur..
 ..le bouton 'Run' pour executer le code Java..
 ..puis tape dans la console deux nombres.
@@ -29,11 +29,11 @@ public class Main
         // ÉCRIRE "Tapez un deuxième nombre à multiplier :"
         System.out.println("Tapez un deuxième nombre à multiplier :");
 
-        // LIRE premierNombre
+        // LIRE deuxiemeNombre
         double deuxiemeNombre = LIRE.nextDouble();
 
         // produit <- premierNombre * deuxiemeNombre
-        double produit = premierNombre * deuxiemeNombre
+        double produit = premierNombre * deuxiemeNombre;
 
         // ÉCRIRE "Le résultat de la multiplication est..."
         System.out.println("Le résultat de la multiplication est...");
